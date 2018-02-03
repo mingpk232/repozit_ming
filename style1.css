@@ -1,0 +1,84 @@
+a {
+	text-decoration: none;
+}
+
+#btn_1 {
+	border: 1px solid black;
+	border-radius: 5px;
+	height: 50px;
+	width: 250px;
+	font-weight: bold;
+	margin: 0 auto;
+}
+
+#btn1 {
+	border: 1px solid black;
+	border-radius: 5px;
+	height: 50px;
+	width: 250px;
+	font-weight: bold;
+	margin: 0 auto;
+}
+
+#forma {
+	border:1px solid black;
+	border-radius: 5px;
+	width:250px;
+	margin: 0 auto;
+	padding:10px;
+}
+
+#table {
+	border: 2px solid black;
+	width: 800px;
+	margin: 30px auto;
+	border-collapse: collapse;
+}
+
+th {
+	border: 1px solid black;
+	padding:5px;
+}
+
+td {
+	border: 1px solid black;
+	padding: 5px;
+}
+
+#user_delete {
+	width:30px;
+}
+
+#reg_date {
+	width: 135px;
+}
+
+#red_date {
+	width: 135px;
+}
+
+#redactor {
+	width:30px;
+}
+
+#BACK {
+	color: black;
+	text-decoration: none;
+	border: 3px solid black;
+	border-radius: 5px;
+	width: 150px;
+	height: 50px;
+	margin:50px auto;
+	font-size: 25px;
+	padding: 7px;
+	padding-top:13px;
+	background: lightgrey;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+#BACK:active {
+	width: 140px;
+	height: 40px;
+	background: white;
+}
