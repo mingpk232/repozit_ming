@@ -1,64 +1,67 @@
+/*
+ на будущее, не юзай id юзай классы лучше, id должен быть уникальным, например: 38830c12-3320-4371-90cb-ac1c65fd5bb2
+*/
 a {
-	text-decoration: none;
+    text-decoration: none;
 }
 
 #btn_1 {
-	border: 1px solid black;
-	border-radius: 5px;
-	height: 50px;
-	width: 250px;
-	font-weight: bold;
-	margin: 0 auto;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 50px;
+    width: 250px;
+    font-weight: bold;
+    margin: 0 auto;
 }
 
 #btn1 {
-	border: 1px solid black;
-	border-radius: 5px;
-	height: 50px;
-	width: 250px;
-	font-weight: bold;
-	margin: 0 auto;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 50px;
+    width: 250px;
+    font-weight: bold;
+    margin: 0 auto;
 }
 
-#forma {
-	border:1px solid black;
-	border-radius: 5px;
-	width:250px;
-	margin: 0 auto;
-	padding:10px;
+.forma {
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 250px;
+    margin: 0 auto;
+    padding: 10px;
 }
 
 #table {
-	border: 2px solid black;
-	width: 800px;
-	margin: 30px auto;
-	border-collapse: collapse;
+    border: 2px solid black;
+    width: 800px;
+    margin: 30px auto;
+    border-collapse: collapse;
 }
 
 th {
-	border: 1px solid black;
-	padding:5px;
+    border: 1px solid black;
+    padding: 5px;
 }
 
 td {
-	border: 1px solid black;
-	padding: 5px;
+    border: 1px solid black;
+    padding: 5px;
 }
 
 #user_delete {
-	width:30px;
+    width: 30px;
 }
 
 #reg_date {
-	width: 135px;
+    width: 135px;
 }
 
 #red_date {
-	width: 135px;
+    width: 135px;
 }
 
 #redactor {
-	width:30px;
+    width: 30px;
 }
 
 #BACK {
@@ -78,7 +81,7 @@ td {
 }
 
 #BACK:active {
-	width: 140px;
-	height: 40px;
-	background: white;
+    width: 140px;
+    height: 40px;
+    background: white;
 }
